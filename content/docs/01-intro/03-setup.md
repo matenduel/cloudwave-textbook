@@ -1,6 +1,6 @@
 ---
 title: "Setup"
-weight: 20
+weight: 30
 draft: false
 ---
 
@@ -10,7 +10,7 @@ draft: false
 ### Windows
 
 - 아래 링크에서 Docker Desktop을 다운로드합니다.
-  [https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe](https://desktop.docker.com/win/main/amd64/Docker Desktop Installer.exe)
+  [Desktop Installer.exe](https://desktop.docker.com/win/main/amd64/Docker)
 
 - 설치 후 Docker Desktop을 실행합니다.
 

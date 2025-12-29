@@ -1,6 +1,6 @@
 ---
 title: "CLI - Image"
-weight: 20
+weight: 40
 draft: false
 ---
 
