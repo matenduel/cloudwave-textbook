@@ -10,3 +10,7 @@ BookSection = "docs"
 [module]
 [[module.imports]]
 path = "github.com/alex-shpak/hugo-book"
+
+[markup]
+[markup.highlight]
+noClasses = false
