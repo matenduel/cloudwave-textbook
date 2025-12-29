@@ -34,18 +34,18 @@ docker run -d --name ide --network host -e PASSWORD=wave -e DEFAULT_WORKSPACE=/c
 - `localhost:8443`에 접속합니다.
   - Password = `wave`
 
-![image-20251229204547145]({{< relURL "images/docker-practice-setting/image-20251229204547145.png" >}})
+![image-20251229204547145]({{"images/docker-practice-setting/image-20251229204547145.png"  | absURL }})
 
 - 초기 화면은 다음과 같습니다. 
 
-![image-20251229204645897]({{< relURL "images/docker-practice-setting/image-20251229204645897.png" >}})
+![image-20251229204645897]({{"images/docker-practice-setting/image-20251229204645897.png"  | absURL }})
 
 
 
 - 필요한 `Extensions`를 설치합니다. 
   - Docker, YAML
 
-![image-20251229204724640]({{< relURL "images/docker-practice-setting/image-20251229204724640.png" >}})
+![image-20251229204724640]({{"images/docker-practice-setting/image-20251229204724640.png"  | absURL }})
 
 
 
@@ -373,4 +373,4 @@ docker run -d --name minio -p 9000:9000 -p 9001:9001 -e MINIO_ROOT_USER=minio -e
 
 
 
-![image-20251229210245329]({{< relURL "images/docker-practice-setting/image-20251229210245329.png" >}})
+![image-20251229210245329]({{"images/docker-practice-setting/image-20251229210245329.png" | absURL}})
