@@ -1,0 +1,12 @@
+baseURL = "https://matenduel.github.io/cloudwave-textbook/"
+languageCode = "ko-kr"
+title = "Cloudwave Textbook"
+
+# hugo-book 기본 섹션은 docs
+[params]
+BookSection = "docs"
+
+# 테마를 Hugo Module로 가져오기
+[module]
+[[module.imports]]
+path = "github.com/alex-shpak/hugo-book"
