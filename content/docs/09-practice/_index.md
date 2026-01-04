@@ -1,6 +1,6 @@
 ---
 title: "Docker Practice"
-weight: 990
+weight: 90
 ---
 
 Docker 관련 실습/문서 모음.
